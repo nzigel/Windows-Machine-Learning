@@ -37,6 +37,7 @@ namespace WinMLExplorer.ViewModels
             this.Models = new List<WinMLModel>()
             {
                 new PcbModel(),
+                new BirdModel()
             };
 
             // Initialize cameras
